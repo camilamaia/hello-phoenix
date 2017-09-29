@@ -1,4 +1,4 @@
-# HelloPhoenix
+# Hello Phoenix
 
 My source code for the official Phoenix tutorial https://hexdocs.pm/phoenix/overview.html
 
