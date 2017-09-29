@@ -1,6 +1,8 @@
 # HelloPhoenix
 
-To start your Phoenix app:
+My source code for the official Phoenix tutorial https://hexdocs.pm/phoenix/overview.html
+
+**To start your Phoenix app:**
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
